@@ -1,0 +1,9 @@
+1) figure out a way to compare locations.
+both playground_equiptment.csv and city_of_pgh_pools.csv use "neighborhood" as a location - so we can cross check neighborhoods using names i think.
+permitted_shelters doesn't have neighborhoods - it has locations. we can make a csv which crossreferences the permitted_shelters location with the neighborhoods ??
+
+for shelters:
+1) find out how many shelters matches up with each location
+2) make spreadsheet of number of shelters per location
+3) find out what neighborhood is in each location
+4) plot by number of shelters per location!
